@@ -1,0 +1,10 @@
+[
+  {
+    "name": "ProcessMonitor",
+    "command": "./tools/ProcessMonitor.app/Contents/MacOS/ProcessMonitor -pretty"
+  },
+  {
+    "name": "FileMonitor",
+    "command": "./tools/FileMonitor.app/Contents/MacOS/FileMonitor -pretty"
+  }
+]

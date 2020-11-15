@@ -1,0 +1,14 @@
+[
+  {
+    "name": "homebrew",
+    "commands": [
+      "/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)\""
+    ]
+  },
+  {
+    "name": "expect",
+    "commands": [
+      "brew install expect"
+    ]
+  }
+]
